@@ -1,0 +1,61 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+.tox-notifications-container{
+    display: none;
+}
+.is_invalid{
+    border: 1px solid $red !important;
+}
+
+.user-pro-img img{
+
+    width: 200px;
+    height: 200px;
+}
+
+.suggestion-usd img, .feed-img img{
+    width: 40px;
+}
+.usy-dt, .user-info a{
+    float: none !important;
+}
+.user-info img{
+    width: 30px;
+    height: 30px;
+}
+
+.cover-sec img{
+    height: 450px;
+}
+
+.review-user img{
+    width: 40px !important;
+}
+
+.comment-list .bg-img img{
+    width: 35px !important;
+    max-width: 35px !important;
+}
+
+.reviewtitle {
+    padding: 20px !important;
+}
+
+#review_form {
+    padding: 30px 10px 0;
+}
+
+#review_form h2 {
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}

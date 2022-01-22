@@ -1,0 +1,1 @@
+d:\projects\freelance\workwise\workwise-new\resources\views\emails\Send_msg.blade.php
